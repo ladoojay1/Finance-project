@@ -1,1 +1,2 @@
-# Finance-project
+# AI - Finance-project
+#Trade with Automation
